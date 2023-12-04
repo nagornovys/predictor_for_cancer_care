@@ -7,8 +7,10 @@ Analysis of the ICGC data using of machine learning methods based on novel isola
 Authors and contributor list:
 ---
 _**Iurii Nagornov**_ (Maintainer, Author)
+The National Institute of Advanced Industrial Science and Technology, Japan
 
 _**Asmaa Elzawahry**_ (Author)
+University of Oslo, Norway
 
 ABSTRACT
 ---

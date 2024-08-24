@@ -9,9 +9,6 @@ Authors and contributor list:
 _**Iurii Nagornov**_ (Maintainer, Author)
 The National Institute of Advanced Industrial Science and Technology, Japan
 
-_**Asmaa Elzawahry**_ (Author)
-University of Oslo, Norway
-
 ABSTRACT
 ---
 Genomic ICGC data has huge dimensionality, and a subset corresponding to a particular type of cancer has a low size to have enough evidence for an efficient prediction in personal treatment. Personalized medicine is a challenge for the ICGC project, but it requires much more information, and nobody knows when it will have been accumulated enough. Machine learning (ML) based on isolation kernel (iKernel) has attractive advantages like strong sustainability to the high dimensionality of data and accurate prediction for sparse data. It is important to denote that this ML method is outstanding from neural network approaches and others. This project aims to improve the prediction efficiency for personal immunotherapy treatment using ML based on iKernel and its approaches. The project will use ICGC Controlled Data for lung and breast cancers as the most common cancers which have more data in comparison with other types. We are going to use data on the efficiency of immunotherapy for these cases to train ML analysis and construct the predictor. 80% of dataset will be used for training and 20% for measuring method accuracy, and repetition of the training procedure with a shuffle of data will be applied for evaluation of stability.
